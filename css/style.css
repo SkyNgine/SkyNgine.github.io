@@ -589,3 +589,33 @@ h1, h2, h3
 	
 }
 
+
+#contact
+{
+	position: relative;
+	font-size: 18px;
+}
+
+#contact #address ul
+{
+	margin: 0 0 30px 0;
+}
+
+#contact #address ul li
+{
+	display: inline-block;
+	list-style-type: none;
+	margin: 0 10px;
+}
+
+#contact #address ul li a
+{
+	font-size: 36px;
+	color: #FFFFFF;
+}
+
+#contact #address ul li a:hover
+{
+	color: #FFFFFF;
+}
+
